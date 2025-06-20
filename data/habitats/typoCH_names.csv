@@ -1,0 +1,347 @@
+Typo,français,allemand,italien,latin,anglais,normalized_typo
+0,Milieu,Lebensraum,Ambiente (habitat),,Biotopes,0
+1,Eaux libres,Gewässer,Ambienti acquatici,,Non-marine waters,1
+2,Rivages et lieux humides,Ufer und Feuchtgebiete,Rive e luoghi umidi,,Vegetation of banks and wetlands,2
+3,"Glaciers, rochers, éboulis et moraines","Gletscher, Fels, Schutt und Geröll","Ghiacciai, rocce, ghiaioni, depositi fluviali e glaciali",,"Glaciers, rocks, screes and gravel",3
+4,Pelouses et prairies,"Grünland (Naturrasen, Wiesen und Weiden)",Praterie,,Grasslands,4
+5,"Landes, lisières et mégaphorbiaies","Krautsäume, Hochstaudenfluren und Gebüsche","Margini di bosco, radure, aggregati di alte erbe, cespuglieti e brughiere",,"Woodland edges, tall herbs communities, scrubs",5
+6,Forêts,Wälder,Ambienti boscati,,Forests,6
+7,Végétation pionnière des endroits perturbés par l'homme,Pioniervegetation gestörter Plätze (Ruderalstandorte),Ambienti ruderali e perturbati dall'uomo,,Pioneer vegetation of disturbed areas (ruderal vegetation),7
+8,"Plantations, champs et cultures","Pflanzungen, Äcker, Kulturen",Ambienti coltivati,,"Plantations, fields and cropland",8
+9,Milieux construits,"Bauten, Anlagen",Ambienti edificati e infrastrutture,,Built habitats,9
+1.-1,Eaux calmes,Stehende Gewässer,Acque ferme,,Standing fresh water,1.1
+1.-1.0,Eau sans végétation,Stehendes Gewässer ohne Vegetation,Acque prive di vegetazione,,Unvegetated muds or shingles,1.1.0
+1.-1.0.1,Eau profonde (zone limnétique),Tiefgründiges Gewässer (Freiwasserzone),Acque profonde ,,Fresh waters,1.1.0.1
+1.-1.0.2,"Eau peu profonde (zone litorale, incl. mares temporaires)","Seichtes Gewässer (Litoral, inkl. Tümpel)",Acque poco profonde (comprese le pozze temporanee),,Temporary water bodies,1.1.0.2
+1.-1.1,Eau avec végétation immergée non vasculaire,Armleuchteralgengesellschaft,Acque con vegetazione di piante non vascolari sommerse,Charion,Chandelier algae submerged carpets,1.1.1
+1.-1.2,Eau avec végétation immergée vasculaire,Laichkrautgesellschaft,Acque con vegetazione di piante vascolari sommerse,Potamion,Rooted submerged vegetation,1.1.2
+1.-1.3,Eau avec végétation flottante libre,Wasserlinsengesellschaft,Acque con vegetazione natante,Lemnion,Duckweed covers,1.1.3
+1.-1.3.1,Associations à morène (hydrocharietum morsus-ranae),Froschbissgesellschaften,,Hydrocharition,,1.1.3.1
+1.-1.3.2,Associations à Utriculaire négligée (utricularietum australis),Wasserschlauchgesellschaften,,Utricularion,,1.1.3.2
+1.-1.4,Eau avec végétation flottante fixée,Schwimmblattgesellschaft,Acque con vegetazione stagnale,Nymphaeion,Floating broad-leaved carpets,1.1.4
+1.-1.4.1,Associations à Renoncule peltée,Wasserhahnenfussgesellschaft,,Ranunculion aquatilis,,1.1.4.1
+1.-1.4.2,Associations à Hottonie des marais,Wasserfedergesellschaft,,Hottonietum,,1.1.4.2
+1.-2,Eaux courantes,Fliessgewässer,Acque correnti,,Running water,1.2
+1.-2.1,Zone de la Brême et du Barbeau (épipotamon),Brachsmen- und Barbenregion (Epipotamon),Zona del Barbo e dell'Abramide (Epipotamon),Ranunculion fluitantis,Submerged river vegetation,1.2.1
+1.-2.1.0,Zone de la Brême et du Barbeau (épipotamon) sans végétation,Brachsmen- und Barbenregion ohne Vegetation,,,,1.2.1.0
+1.-2.1.1,Grands cours d'eau de plaine,Breites Fliessgewässer des Flachlands,Grandi corsi d'acqua di pianura,,"Barbel zone, large rivers",1.2.1.1
+1.-2.1.2,Petit cours d'eau de plaine à écoulement lent,Langsam fliessender Bach im Flachland,Piccoli corsi d'acqua di pianura a scorrimento lento,,Small lowland rivers,1.2.1.2
+1.-2.2,Zone de l'Ombre (hyporhitron),Äschenregion (Hyporhithron),Zona del Temolo,Fontinalidion antipyreticae,Grayling zone,1.2.2
+1.-2.2.0,"Zone de l'Ombre, sans végétation",Äschenregion ohne Vegetation,Zona del Temolo priva di vegetazione,,Unvegetated grayling zone,1.2.2.0
+1.-2.2.1,"Zone de l'Ombre, avec végétation",Äschenregion mit Vegetation,Zona del Temolo con vegetazione,,Vegetated grayling zone,1.2.2.1
+1.-2.3,Zone inférieure de la Truite (métarhitron),Untere Forellenregion (Metarhithron),Zona inferiore della Trota,Scapanion undulatae,Trout zone,1.2.3
+1.-2.3.0,"Zone inférieure de la Truite, sans végétation",Untere Forellenregion ohne Vegetation,,,,1.2.3.0
+1.-2.3.1,"Zone inférieure de la Truite, avec végétation",Untere Forellenregion mit Vegetation,,,,1.2.3.1
+1.-2.4,Zone supérieure de la Truite (épirhitron),Obere Forellenregion (Epirhithron),Zona superiore della Trota,Dermatocarpion rivulorum,"Trout zone, rivulets",1.2.4
+1.-2.5,Cours d'eau temporaires,Temporärer Wasserlauf,Acque temporanee,,Intermittent streams,1.2.5
+1.-2.6,Zone des ruisseaux glaciaires (kryon),Zone der Gletscherbäche (Kryon),,,,1.2.6
+1.-3,Sources et suintements,Quellen und Quellfluren,Sorgenti e stillicidi,,Springs,1.3
+1.-3.0,"Ecoulement superficiel, suintement sans végétation","Überrieselte Fläche, Quelle ohne Vegetation",Sorgenti e stillicidi privi di vegetazione,,Unvegetated springs,1.3.0
+1.-3.0.1,"Source alluviale, résurgence",,,,,1.3.0.1
+1.-3.1,Végétation des rochers calcaires humides,Wärmeliebende Quellflur,Stillicidi delle rupi calcaree con copertura vegetale,Adiantion,Mediterranean wet inland cliffs,1.3.1
+1.-3.2,Végétation des sources alcalines,Kalkreiche Quellflur,Sorgenti alcaline con copertura vegetale,Cratoneurion,Hard water springs,1.3.2
+1.-3.3,Végétation des sources acides,Kalkarme Quellflur,Sorgenti acide con copertura vegetale,Cardamino-Montion,Soft water springs,1.3.3
+1.-3.4,"Eau suintante sur pierre et rochers (zone hygropétrique)
+",Rieselflur auf Felsen und Steinen (hygropetrische Zone),,,,1.3.4
+1.-4,Eaux souterraines,Unterirdische Gewässer,Acque sotterranee,,Underground waters,1.4
+1.-4.1,Milieu interstitiel des sédiments (nappe phréatique),Porengrundwasser,Ambienti interstiziali dei sedimenti (falda freatica),,Interstice groundwater,1.4.1
+1.-4.2,Milieu fissural,Kluftgrundwasser,Reticolo di fessure,,Fissure groundwater,1.4.2
+1.-4.3,Rivière souterraine,Höhlenbach,Corsi d'acqua sotterranei,,Underground river,1.4.3
+1.-4.4,Lac souterrain,Höhlensee,Laghi sotterranei,,Underground lake,1.4.4
+2.-0,Rivages artificiels,Künstliche Ufer,Rive prive di vegetazione,,Artificial banks,2.0
+2.-0.0,Rivages artificiels sans végétation,Künstliche Ufer ohne Vegetation,Rive artificiali prive di vegetazione,,Unvegetated artificial banks,2.0.0
+2.-0.1,Rivages artificiels avec végétation,Künstliche Ufer mit Vegetation,Rive artificiali con vegetazione,,Vegetated artificial banks,2.0.1
+2.-1,Rivages avec végétation,Ufer mit Vegetation,Rive con copertura vegetale,,Water fringe vegetation,2.1
+2.-1.1,Dépressions inondées à utriculaires,Moortümpelgesellschaften,Depressioni allagate a Erba-vescica,Sphagno-Utricularion,Peatmoss-bladderwort bog pools,2.1.1
+2.-1.2,Roselières,Röhricht,Canneti,,Reed beds,2.1.2
+2.-1.2.1,Roselière lacustre,Stillwasser-Röhricht,Canneti lacustri,Phragmition,Common reed beds,2.1.2.1
+2.-1.2.2,Roselière terrestre,Flussufer- und Landröhricht,"Canneti terrestri, ripariali",Phalaridion,Reed canary-grass beds,2.1.2.2
+2.-1.3,Végétation temporaire des grèves,Strandlingsgesellschaft,Greti con copertura vegetale temporanea,Littorellion,Northern perennial amphibious communities,2.1.3
+2.-1.4,Végétation des rives d'eau courante,Bachröhricht,Rive delle acque correnti con copertura vegetale,Glycero-Sparganion,Small reed beds of fast flowing waters,2.1.4
+2.-2,Bas marais,Flachmoore,Paludi (torbiere basse),,Fens and transition mires,2.2
+2.-2.1,Magnocariçaie,Grossseggenried,Paludi a grandi carici,,Large sedge communities,2.2.1
+2.-2.1.1,Magnocariçaie s.str.,Grossseggenried s. str.,Paludi a grandi carici s.str.,Magnocaricion,Large sedge beds,2.2.1.1
+2.-2.1.2,Formation à marisque,Schneidbinsenried,Acquitrini a Falasco,Cladietum,Fen-sedge beds,2.2.1.2
+2.-2.2,Parvocariçaie acidophile,Kalkarmes Kleinseggenried (Braunseggenried),Paludi con piccole carici acidofile,Caricion fuscae,Acidic fens,2.2.2
+2.-2.3,Parvocariçaie neutro-basophile,Kalkreiches Kleinseggenried (Davallseggenried),Paludi con piccole carici neutro-basofile,Caricion davallianae,Rich fens,2.2.3
+2.-2.4,Cariçaie de transition,Übergangsmoor,Torbiere di transizione,Caricion lasiocarpae,Transition mires,2.2.4
+2.-2.5,Groupement pionnier des bords de torrents alpins,Schwemmufervegetation alpiner Wildbäche,Rive dei torrenti alpini con vegetazione pioniera (carici artiche relitte),Caricion bicolori-atrofuscae,Arcto-alpine riverine swards,2.2.5
+2.-3,Prairies humides,Feuchtwiesen,Prati acquitrinosi,,Humid grasslands,2.3
+2.-3.1,Prairie à molinie,Pfeifengraswiese,Prati acquitrinosi con Gramigna altissima,Molinion,Purple moorgrass meadows and related communities,2.3.1
+2.-3.2,Prairie à populage,Nährstoffreiche Feuchtwiese (Sumpfdotterblumenwiese),Prati acquitrinosi con Calta palustre,Calthion,Atlantic and Sub-Atlantic humid meadows,2.3.2
+2.-3.3,Mégaphorbiaie marécageuse,Feuchte Hochstaudenflur (Spierstaudenflur),Prati acquitrinosi con alte erbe (Olmaria comune),Filipendulion,Meadowsweet stands and related communities,2.3.3
+2.-4,Tourbières bombées,Hochmoore,Torbiere alte,,Raised bogs,2.4
+2.-4.1,Tourbière à sphaignes,Offene Hochmoore,Torbiere a sfagni,Sphagnion magellanici,"Bog hummocks, ridges and lawns",2.4.1
+2.-5,Végétation annuelle temporairement inondée,Wechselfeuchte Pionierfluren,Luoghi temporaneamente inondati con vegetazione annuale,,Temporarily flooded annual vegetation,2.5
+2.-5.0,Surface de vase nue,Schlammboden ohne Vegetation,,,,2.5.0
+2.-5.1,Végétation de petites annuelles éphémères,Einjährige Schlammflur (Zwergbinsenflur),Luoghi con vegetazione di basse erbe annuali igrofile (giunchi nani),Nanocyperion,Northern dwarf annual amphibious swards,2.5.1
+2.-5.1.1,Cummunautés naines des eaux douces à Eleocharis,Zwergbinsen-Annuellenflur mit Sumpfbinsen,Tappeti con Eleocharis,,,2.5.1.1
+2.-5.1.2,Gazons à petits cyperus,Zwergbinsen-Annuellenflur mit Zypergräsern,Tappeti con giunchi nani,,,2.5.1.2
+2.-5.1.3,Cummunautés naines des substrats humides à herbacées,Annuellenflur feuchter Böden mit Zwergkräutern,Tappeti con herbe nane,,,2.5.1.3
+2.-5.2,Végétation de grandes annuelles nitrophiles,Mehrjährige Schlammflur (Zweizahnflur),Luoghi con vegetazione di alte erbe annuali nitrofile,Bidention,Bur marigold communities / Euro-Siberian annual river mud communities,2.5.2
+3.-1,"Glaciers, névés","Gletscher, Firn- und Schneefelder",Ghiacciai e nevai,,Eternal snow and ice,3.1
+3.-1.1,Glacier,Gletscher,Ghiacciai,,True glaciers,3.1.1
+3.-1.2,Glacier rocheux,Blockgletscher,Ghiacciai sassosi (Rockglacier),,Rock glaciers,3.1.2
+3.-1.3,Névé d'altitude (été),Firnfeld (Sommer),Nevai perenni (Firn),,Snow packs,3.1.3
+3.-1.4,Plaque de neige (printemps),Schneefeld (Frühling),Nevai residui primaverili,,Spring snow packs,3.1.4
+3.-2,Alluvions et moraines,Alluvionen und Moränen,Suoli alluvionali e morene,,Alluvial deposits and moraines,3.2
+3.-2.1,Alluvions,Alluvion (Schwemmland),Suoli alluvionali,,River gravel banks,3.2.1
+3.-2.1.0,Alluvions sans végétation,Alluvion ohne Vegetation,Suoli alluvionali privi di vegetazione,,Unvegetated river gravel banks,3.2.1.0
+3.-2.1.1,Alluvions avec végétation pionnière herbacée,Alluvion mit krautiger Pioniervegetation,Suoli alluvionali con vegetazione pioniera erbacea,Epilobion fleischeri,Vegetated river gravel banks,3.2.1.1
+3.-2.2,Moraine,Moräne,Morene,,Moraines,3.2.2
+3.-2.2.0,Moraine sans végétation,Moräne ohne Vegetation,Morene prive di vegetazione,,Unvegetated moraines,3.2.2.0
+3.-2.2.1,Moraine avec végétation pionnière,Moräne mit Pioniervegetation,Morene con vegetazione pioniera,,Moraines with pioneer vegetation,3.2.2.1
+3.-3,Eboulis,Steinschutt- und Geröllfluren,Ghiaioni,,Screes,3.3
+3.-3.1,Eboulis de roche calcaire,Kalkschutt,Ghiaioni calcarei,,Calacareous screes,3.3.1
+3.-3.1.1,Eboulis calcaire sans végétation vasculaire,Kalkschutt ohne Gefässpflanzen,Ghiaioni calcarei privi di piante vascolari,,Unvegetated calcareous screes,3.3.1.1
+3.-3.1.2,Eboulis calcaire d'altitude (roche dure),Alpine Kalkschuttflur,Ghiaioni calcarei d'altitudine (roccia compatta),Thlaspion rotundifolii,Alpine pennycress screes,3.3.1.2
+3.-3.1.3,Eboulis de calcschistes d'altitude,Alpine Kalkschieferflur,Ghiaioni di calcescisti d'altitudine,Drabion hoppeanae,Alpine calcschist screes,3.3.1.3
+3.-3.1.4,Eboulis calcaire humide,Feinerdereiche Kalkschuttflur,Ghiaioni calcarei con vegetazione igrofila,Petasition paradoxi,Fine calcareous screes,3.3.1.4
+3.-3.1.5,Eboulis calcaire thermophile,Trockenwarme Kalkschuttflur,Ghiaioni calcarei con vegetazione termofila,Stipion calamagrostis,Peri-Alpine thermophilous screes,3.3.1.5
+3.-3.2,Eboulis de roche siliceuse,Silikatschutt,Ghiaioni silicei,,Alpine and Northern siliceous screes,3.3.2
+3.-3.2.1,Eboulis siliceux sans végétation vasculaire,Silikatschutt ohne Gefässpflanzen,Ghiaioni silicei privi di piante vascolari,,Unvegetated siliceous screes,3.3.2.1
+3.-3.2.2,Eboulis siliceux d'altitude,Alpine Silikatschuttflur,Ghiaioni silicei d'altitudine con Androsace alpina,Androsacion alpinae,Alpine siliceous screes,3.3.2.2
+3.-3.2.3,Eboulis siliceux thermophile,Trockenwarme Silikatschuttflur,Ghiaioni silicei con vegetazione termofila,Galeopsion segetum,Northern upland siliceous screes,3.3.2.3
+3.-4,Parois rocheuses,Felsen,Pareti rocciose,,Inland cliffs and exposed rocks,3.4
+3.-4.1,Paroi de roche calcaire,Kalkfels,Pareti di roccia calcarea,,Calcareous cliffs,3.4.1
+3.-4.1.1,Paroi calcaire sans végétation vasculaire,Kalkfels ohne Gefässpflanzen,Pareti calcaree prive di piante vascolari,,Unvegetated calcareous cliffs,3.4.1.1
+3.-4.1.2,Paroi calcaire ensoleillée avec végétation vasculaire,Trockene Kalkfelsflur,Pareti calcaree soleggiate a piante vascolari rupicole,Potentillion,Sunny alpine calcareous cliffs,3.4.1.2
+3.-4.1.3,Paroi calcaire ombragée avec végétation vasculaire,Schattige Kalkfelsflur,Pareti calcaree ombreggiate con piante vascolari rupicole,Cystopteridion,Middle-European calcareous fern cliffs,3.4.1.3
+3.-4.2,Paroi de roche siliceuse,Silikat- oder Serpentinfelsen,Pareti di roccia silicea,,Siliceous inland cliffs,3.4.2
+3.-4.2.1,Paroi siliceuse sans végétation vasculaire,Silikatfels ohne Gefässpflanzen,Pareti silicee prive di piante vascolari,,Unvegetated siliceous cliffs,3.4.2.1
+3.-4.2.2,Paroi siliceuse avec végétation vasculaire,Silikatfelsflur,Pareti silicee con piante vascolari rupicole,Androsacion vandellii,Pyreneo-Alpine siliceous cliffs,3.4.2.2
+3.-4.2.3,Végétation des rochers de serpentine,Serpentingesteinsflur,Rocce serpentinose a piante rupicole,Asplenion serpentini,Hercynian serpentine cliffs,3.4.2.3
+3.-5,Grottes et cavernes obscures,Höhlen,"Grotte, caverne e cunicoli",,Caves,3.5
+3.-5.0,"Cavités artificielles (mine, galerie, tunnel...)","Künstliche Fels-Höhlen (Tunnel, Stollen, Mine u.a.)",,,,3.5.0
+3.-5.0.1,Entrée de cavité artificielle,Eingangsbereich künstlicher Höhlen,,,,3.5.0.1
+3.-5.0.2,Zone profonde de cavité artificielle,Tiefenbereich künstlicher Höhlen,,,,3.5.0.2
+3.-5.1,Zone de la pierre enfoncée (faune endogée),"Kleine Felspalten, Halbhöhlen: endogäische Fauna («Fauna der Steinunterseite»)",Nicchie e fissure tra le pietre o sotto rocce sporgenti (fauna endogea),,Zone of the inserted stone,3.5.1
+3.-5.2,Terrier,Bau von Tieren,Tane e cunicoli di animali,,Burrow,3.5.2
+3.-5.3,Entrées de grotte,Höhleneingang,Ingressi di grotta,,Cave entrance,3.5.3
+3.-5.3.1,"Zone ombragée, sous influence directe des conditions externes",,,,,3.5.3.1
+3.-5.3.2,"Zone intermédiaire, moins influencées par les conditions externes",,,,,3.5.3.2
+3.-5.4,Dépôt de guano,Guanohaufen,Cumuli di guano,,Guano deposits,3.5.4
+3.-5.5,Cavité artificielle avec influences humaines,"Künstliche Höhlungen (Minen, Tunnel)","Cavità artificiali legate all'attività umana (miniere, gallerie)",,Artificial caves with human influences,3.5.5
+3.-5.6,"Milieu profond, dépôt d'argile",Unterirdische Lehmablagerung,Zone profonde delle grotte con depositi di argilla,,"Deep zone, clay deposits",3.5.6
+3.-5.7,"Milieu profond, roche dure",Unterirdische Felswand,Zone profonde delle grotte con roccia compatta,,"Deep zone, hard rock",3.5.7
+4.-0,Gazons et prairies artificiels,Kunstrasen,Tappeti erbosi e prati artificiali ,,Artificial grasslands and lawns,4.0
+4.0.0.0.1, , , , ,Dynamic grass,4.0.0.0.1
+4.0.0.0.2, , , , ,Medium dynamic grass,4.0.0.0.2
+4.-0.1,Prairie temporaire sur terre assolée,Kunstwiese auf Fruchtfolgefläche,Prati pluriennali in rotazione,,Temporarily grasslands in rotated crops,4.0.1
+4.-0.2,"Gazon artificiel de terrains de sport, milieu urbain, etc","Kunstrasen auf Sportplätzen, im Siedlungraum usw.","Tappeti erbosi di campi sportivi, di ambienti urbani ecc.",,Artificial lawns; sport and urban areas,4.0.2
+4.-0.3,"Ensemencement après terrassement à basse altitude (talus de route, etc.)",Begrünung in Tieflagen (Strassenböschungen usw.),Rinverdimenti di superfici rimodellate di bassa altitudine (scarpate lungo le strada ecc),,Lowland sowings after earthwork (road slopes...),4.0.3
+4.-0.4,"Ensemencement après terrassement à haute altitude (piste de ski, etc.)",Begrünung in Hochlagen (Skipisten usw.),Rinverdimenti su superficie rimodellate d'altitudine (piste di sci ecc.),,High altitude sowings after earthwork (ski slopes...),4.0.4
+4.-1,Dalles rocheuses et lapiez,Pionierfluren auf Felsböden (Felsgrusfluren),Tavolati e campi solcati,,Rocky flagstones and limestone pavements,4.1
+4.-1.1,Végétation des dalles calcaires de basse altitude,Wärmeliebende Kalkfels-Pionierflur,Tavolati calcarei di bassa altitudine con copertura vegetale,Alysso-Sedion,Middle european rock debris swards,4.1.1
+4.-1.2,Végétation des dalles calcaires et lapiez de montagne,Kalkfels-Pionierflur des Gebirges (Karstflur),Tavolati calcarei e campi solcati d'altitudine con copertura vegetale,Drabo-Seslerion,Stepped and garland grasslands,4.1.2
+4.-1.3,Végétation des dalles siliceuses de basse altitude,Wärmeliebende Silikatfels-Pionierflur,Tavolati silicei di bassa altitudine con copertura vegetale,Sedo-Veronicion,Middle european rock debris swards / Pavements,4.1.3
+4.-1.4,Végétation des dalles siliceuses de montagne,Silikatfels-Pionierflur des Gebirges,Tavolati silicei d'altitudine (vegetazione a Borracina),Sedo-Scleranthion,Alpine weathered rock and outcrop communities / Pavements,4.1.4
+4.-2,Pelouses sèches thermophiles,Wärmeliebende Trockenrasen,Praterie termofile aride e semiaride,,Thermophilous dry grasslands,4.2
+4.-2.1,"Pelouses sèches thermophiles (climat continental; Valais central, Grisons)","Wärmeliebende Trockenrasen (Kontinentales Klima; Innerwallis, Graubünden)","Praterie termofile aride (clima continentale, Vallese centrale, Grigioni)",Festucetalia valesiacae,Sub-continental steppic grasslands,4.2.1
+4.-2.1.1,Pelouse steppique,Inneralpine Felsensteppe,Praterie steppiche tipiche,Stipo-Poion,Eastern and western alpine arid grasslands,4.2.1.1
+4.-2.1.1.1,Pelouse steppique des Alpes occidentales,Inneralpine Felsensteppe der Westalpen,,Stipo-Poenion carniolicae,,4.2.1.1.1
+4.-2.1.1.2,Pelouse steppique des Alpes orientales,Inneralpine Felsensteppe der Ostalpen,,Stipo-Poenion xerophilae,,4.2.1.1.2
+4.-2.1.2,Pelouse mi-sèche continentale,Kontinentaler Halbtrockenrasen,Praterie continentali semiaride,Cirsio-Brachypodion,Mesophile Central European steppic grasslands,4.2.1.2
+4.-2.2,Pelouse sèche médio-européenne,Mitteleuropäischer Trockenrasen,Praterie medioeuropee aride a Forasacco,Xerobromion,Sub-Atlantic very dry calcareous grasslands,4.2.2
+4.-2.3,Pelouse sèche insubrienne,Insubrischer Trockenrasen,Prati insubrici aridi su suolo acido,Diplachnion,Insubrian Mesobromion grasslands,4.2.3
+4.-2.4,Pelouse mi-sèche médio-europénne,Mitteleuropäischer Halbtrockenrasen,Praterie medioeuropee semiaride a Forasacco,Mesobromion,Sub-Atlantic semi-dry calcareous grasslands,4.2.4
+4.-3,Pelouses et pâturages maigres d'altitude,Gebirgs-Magerrasen,Praterie e pascoli magri d'altitudine,,Unfertilized mountain grasslands and pastures,4.3
+4.-3.1,Pelouse calcaire sèche à seslerie,Blaugrashalde,Prati aridi su suolo calcareo con Sesleria comune ,Seslerion,Blue moorgrass-evergreen sedge slopes,4.3.1
+4.-3.1.1,Pelouse calcaire sèche à seslérie s. str.,Blaugrashalde s.str.,,Seslerion,,4.3.1.1
+4.-3.1.2,Pelouse calcaire sèche des Alpes du sud,Blaugrashalde der südlichen Kalkalpen,Prati aridi su suolo calcareo con Sesleria e Carice sudalpina,Caricion austroalpinae,,4.3.1.2
+4.-3.2,Pelouse calcaire sèche à laiche ferme,Polsterseggenrasen,Prati aridi su suolo calcareo con Carice rigida,Caricion firmae,Cushion sedge carpets,4.3.2
+4.-3.3,Pelouse calcaire fraîche,Rostseggenhalde,Prati freschi e pascoli su suolo calcareo con Carice ferruginae,Caricion ferruginae,Northern rusty sedge grasslands,4.3.3
+4.-3.4,Gazon des crêtes ventées,Windkantenrasen (Nacktriedrasen),Creste e dossi ventosi a suolo calcareo con copertura vegetale,Elynion,Wind edge naked-rush swards,4.3.4
+4.-3.5,Pâturage maigre acide,Borstgrasrasen,Pascoli magri su suolo acido a Cervino,Nardion,Mat-grass swards and related communities,4.3.5
+4.-3.6,Pelouse rocheuse acide,Buntschwingelhalde,Balze e cenge su suolo silicatico,Festucion variae,Subalpine thermophile siliceous grasslands,4.3.6
+4.-3.6.1,Pelouse rocheuse acide à fétuque bigarrée,Buntschwingelhalde,Balze e cenge su suolo silicatico a Festuca varia,Festucion variae s. str.,,4.3.6.1
+4.-3.6.2,Pelouse rocheuse acide à pâturin violet,Violettschwingelrasen,Balze e cenge su suolo silicatico con Fienarola violacea,Laserpitio-Poion,,4.3.6.2
+4.-3.6.3,Pelouse rocheuse acide à fétuque paniculée,Goldschwingelrasen,Balze e cenge su suolo silicatico con Festuca pannocchiuta,Festucion spadiceae,,4.3.6.3
+4.-3.7,Pelouse acide de l'étage alpin supérieur,Krummseggenrasen,Praterie d'altitudine su suolo acido a Carice ricurva,Caricion curvulae,Crooked-sedge swards and related communities,4.3.7
+4.-4,Combes à neige,Schneetälchen,Vallette nivali,,Snow-pathes,4.4
+4.-4.1,Combe à neige calcaire,Kalkreiches Schneetälchen,Vallette nivali con suolo calcareo,Arabidion caerulae,Calcareous snow-path communities,4.4.1
+4.-4.2,Combe à neige acide,Kalkarmes Schneetälchen,Vallette nivali con suolo acido,Salicion herbaceae,Acid snow-path communities,4.4.2
+4.-5,Prairies et pâturages gras,Fettwiesen und -weiden,Praterie e pascoli pingui,,Fertilized grasslands,4.5
+4.-5.1,Prairie de fauche de basse altitude,Talfettwiese (Fromentalwiese),Praterie da sfalcio di bassa altitudine,Arrhenatherion,Medio-European lowland hay meadows,4.5.1
+4.-5.1.1,Prairie à dactyle à flore appauvrie,Artenarme Knaulgraswiese,,,,4.5.1.1
+4.-5.1.2,Arrhenateretum typique à flore diversifiée,"Typisches, artenreiches Arrhenateretum",,Arrhenateretum typicum,,4.5.1.2
+4.-5.1.3,Arrhenateretum à sauge des prés des sols séchards,Salvio-Arrhenateretum auf trockenen Böden,,Arrhenateretum salvietosum,,4.5.1.3
+4.-5.1.4,Trifolio-Alopecuretum des sols mouillants,Trifolio-Alopecuretum auf feuchten Böden,,Trifolio-Alopecuretum,,4.5.1.4
+4.-5.2,Prairie de fauche de montagne,Bergfettwiese (Goldhaferwiese),Prati da sfalcio pingui di montagna,Polygono-Trisetion,Mountain and subalpine hay-meadows,4.5.2
+4.-5.3,Pâturage de basse et moyenne altitude,Talfettweide (Kammgrasweide),Pascoli pingui di bassa e media altitudine con Covetta,Cynosurion,Mesophile pastures,4.5.3
+4.-5.4,Pâturage gras subalpin et alpin,Bergfettweide (Milchkrautweide),Pascoli pingui degli orizzonti subalpino e alpino,Poion alpinae,Rough hawkbit pastures,4.5.4
+4.-5a,Prairies grasses,Fettwiesen,,,,4.5a
+4.-5b,Pâturages gras,Fettweiden,,,,4.5b
+4.-6,Friches à graminées,Grasbrachen,Aree abbandonate erbose,,Abandonned grasslands,4.6
+4.-6.1,Friche à chiendent,Queckenbrache,Aree abbandonate aride e termofile a gramigne,Convolvulo-Agropyrion,Abandonned grasslands with Agropyron repens,4.6.1
+4.-6.2,Friche à Brachypodium pinnatum,Fiederzwenckenbrache,Aree abbandonate semiaride a Paleo comune,,Abandonned grasslands with Brachypodium pinnatum,4.6.2
+4.-6.3,Friche à Arrhenatherum elatius,Fromentalbrache,Aree abbandonate con Avena altissima,,Abandonned grasslands with Arrhenatherum elatius,4.6.3
+4.-6.4,Friche à Molinia arundinacea,Pfeifengrasbrache,Aree abbandonate umide con Gramigna altissima,,Abandonned grasslands with Molinia arundinacea,4.6.4
+4.-6.5,Friche à Calamagrostis varia,Reitgrasbrache,Aree abbandonate aride con Cannella comune,,Abandonned grasslands with Calamagrostis varia,4.6.5
+5.-1,Lisières herbacées (ourlets),Krautsäume,Margini di bosco erbacei,,Fringes,5.1
+5.-1.0,Ourlet atypique,Atypischer Krautsaum,Margini atipici,,Untypical fringe,5.1.0
+5.-1.1,Ourlet maigre xérothermophile,Trockenwarmer Krautsaum,Margini magri e xero-termofili,Geranion sanguinei,Xero-thermophile fringes,5.1.1
+5.-1.2,Ourlet maigre mésophile,Mesophiler Krautsaum,Margini magri e mesofili,Trifolion medii,Mesophile fringes,5.1.2
+5.-1.3,Ourlet hygrophile de plaine,Feuchter Krautsaum (Tieflagen),Margini igrofili di pianura,Convolvulion,Mixed riverine screens,5.1.3
+5.-1.4,Ourlet hygrophile d'altitude,Feuchter Krautsaum (höhere Lagen),Margini igrofili d'altitudine,Petasition officinalis,Butterbur riverine communities,5.1.4
+5.-1.5,Ourlet nitrophile mésophile,Nährstoffreicher Krautsaum,Margini nitro-mesofili,Aegopodion + Alliarion,Shady woodland edge fringes,5.1.5
+5.-2,"Mégaphorbiaies, coupes forestières",Hochstauden- und Schlagfluren,"Tagli rasi, radure e luoghi ad alte erbe (megaforbieto)",,Clearings,5.2
+5.-2.1,"Coupe, clairière sur sol baso-neutrophile",Kalkreiche Schlagflur,Tagli rasi e radure su suolo calcareo,Atropion,Burdock and deadly nightshade clearings,5.2.1
+5.-2.2,"Coupe, clairière sur sol acide",Kalkarme Schlagflur,Tagli rasi e radure su suolo silicatico,Epilobion angustifolii,Willowherb and foxglove clearings,5.2.2
+5.-2.3,Mégaphorbiaie de montagne mésophile à graminées,Hochgrasflur des Gebirges,Megaforbie montane mesofile (Cannella),Calamagrostion ,Subalpine Small Reed meadows,5.2.3
+5.-2.4,Mégaphorbiaie de montagne hygrophile à Adenostyles alliariae,Hochstaudenflur des Gebirges,Megaforbie montane igrofile (Cavolaccio alpino),Adenostylion,Hercynio-alpine tall herb communities,5.2.4
+5.-2.5,Mégaphorbiaie à Pteridium aquilinum,Adlerfarnflur,Megaforbie (alte erbe) con Felce aquilina,,Bracken fields,5.2.5
+5.-3,Formations buissonnantes,Gebüsche,"Cespuglieti (mantelli, spessine, siepi)",,"Scrubs, brushes and clearings",5.3
+5.-3.0,Plantation artificielle,Naturferne Pflanzung,Piantagioni artificiali,,Artificial hedgerows,5.3.0
+5.-3.0.1,Plantation artificielle à feuilles caduques,Naturferne Pflanzung mit sommergrünen Arten,Piantagioni artificiali di caducifoglie (piante decidue),,Deciduous artificial hedgerows,5.3.0.1
+5.-3.0.2,Plantation artificielle à feuilles persistantes,Naturferne Pflanzung mit immergrünen Arten,Piantagioni artificiali di sempreverdi,,Coniferous artificial hedgerows,5.3.0.2
+5.-3.1,Buissons thermophiles sur sol acide,Besenginstergebüsch,Cespuglieti termofili su suolo acido,Sarothamnion,Medio-European Cytisus scoparius fields,5.3.1
+5.-3.2,Buissons xérothermophiles sur sol neutre à alcalin,Trockenwarmes Gebüsch,Cespuglieti xero-termofili su suolo neutro-basico (Crespino),Berberidion,Blackthorn-privet scrub and box thickets,5.3.2
+5.-3.3,Buissons mésophiles,Mesophiles Gebüsch,Cespuglieti mesofili,Pruno-Rubion,Blackthorn-bramble scrub,5.3.3
+5.-3.4,Roncier à Rubus fructicosus s.l.,Brombeergestrüpp,Roveti,,Bramble scrubs,5.3.4
+5.-3.5,Stade arbustif préforestier,Gebüschreiche Vorwaldgesellschaften,Aree cespugliate in fase di rimboschimento,Sambuco-Salicion,Shrubby clearings,5.3.5
+5.-3.6,Saulaie buissonnante alluviale,Auen-Weidengebüsch,Saliceti arbustivi alluvionali,Salicion elaeagni,Pre-Alpine Willow brush,5.3.6
+5.-3.7,Saulaie buissonnante marécageuse,Moor-Weidengebüsch,Saliceti arbustivi palustri,Salicion cinereae,Mire Willow scrub,5.3.7
+5.-3.8,Saulaie buissonnante subalpine,Gebirgs-Weidengebüsch,Saliceti arbustivi subalpini,Salicenion waldsteinianae,Willow brush,5.3.8
+5.-3.9,Aulnaie verte,Grünerlengebüsch,Arbusteti di Ontano verde (Alneto verde),Alnenion viridis,Alpine green alder scrub,5.3.9
+5.-4,Landes,Zwergstrauchheiden,Brughiere,,Dry heaths,5.4
+5.-4.1,Lande subatlantique acidophile,Subatlantische Zwergstrauchheide (Ginsterheide),Brughiere subatlantiche acidofile,Calluno-Genistion,Subatlantic acidophilous heaths,5.4.1
+5.-4.1.1,Lande subatlantique sur sol tourbeux,Subatlantische Zwergstrauchheide auf Torf,Landa subatlantica su suolo torboso,,Sub-Montane Vaccinium heaths,5.4.1.1
+5.-4.1.2,Lande subatlantique sur sol non tourbeux,Subatlantische Zwergstrauchheide nicht auf Torf,Brughiera subatlantica su suolo non torboso,,Sub-Atlantic Calluna heaths,5.4.1.2
+5.-4.2,Lande continentale à genévrier sabine,Kontinentale Zwergstrauchheide (Sefistrauchheide),Brughiere continentali con Ginepro sabino,Juniperion sabinae,Juniperus sabina scrub,5.4.2
+5.-4.3,Lande subalpine calcicole,Subalpine Kalkheide (Erikaheide),Brughiere subalpine su suolo calcareo,Ericion,Bearberry and hairy alpenrose heaths,5.4.3
+5.-4.4,Lande subalpine xérophile sur sol acide,Trockene subalpine Zwergstrauchheide (Zwergwacholderheide),Brughiere subalpine xerofile su suolo acido con Ginepro nano ,Juniperion nanae,Juniperus nana scrub,5.4.4
+5.-4.5,Lande subalpine méso-hygrophile sur sol acide,Mesophile subalpine Zwergstrauchheide (Alpenrosenheide),Brughiere subalpine meso-igrofile su suolo acido con Rododendro e Mirtillo nero,Rhododendro-Vaccinion,Alpenrose heaths,5.4.5
+5.-4.6,Lande alpine ventée,Alpine Windheide,"Brughiere alpine ventose (brughiere arctico-alpine di arbusti nani, brughiere a Loiseleuria)",Loiseleurio-Vaccinion,Dwarf Azalea and Vaccinium heaths,5.4.6
+6000.0, , , , ,"Single tree, non-complex",6000.0
+6000.1, , , , ,"Single tree, complex structure",6000.1
+6.-0,Plantations,Forstpflanzungen,Piantagioni,,Plantations and isolated trees,6.0
+6.-0.1,Plantation de feuillus,Aufforstung mit Laubgehölzen,Piantagioni di latifoglie,,Broad-leaved plantations,6.0.1
+6.-0.2,Plantation de cônifères,Aufforstung mit Nadelgehölzen,Piantagioni di conifere,,Conifer plantations,6.0.2
+6.-0.3,Arbre isolé,Einzelbaum,,,,6.0.3
+6.-1,Forêts inondables,Bruch- und Auenwälder,"Boschi innondabili, alluvionali",,Swamp woods,6.1
+6.-1.1,Aulnaie noire,Erlenbruchwald,Ontaneti su suolo fradicio con Ontano comune,Alnion glutinosae,Alder swamp woods,6.1.1
+6.-1.2,Saulaie blanche,Weichholz-Auenwald,Saliceti alluvionali con Salice comune,Salicion albae,White Willow gallery forests,6.1.2
+6.-1.3,Aulnaie alluviale,Grauerlen-Auenwald,Ontaneti alluvionali con Ontano bianco,Alnion incanae,Grey alder galleries,6.1.3
+6.-1.3.1,Saulaie laurier,Alpen-Weidenauenwald,Saliceti alluvionali con Salice odoroso,Salicion pentandrae,,6.1.3.1
+6.-1.4,Frênaie humide,Hartholz-Auenwald,Frassineti umidi,Fraxinion,Medio-European stream ash-alder woods,6.1.4
+6.-2,Hêtraies,Buchenwälder,Faggete,,Beech Forests,6.2
+6.-2.1,Hêtraie xérothermophile,Orchideen-Buchenwald,Faggete xero-termofile su suolo calcareo con Orchidee,Cephalanthero-Fagenion,Beech forests on limestone,6.2.1
+6.-2.2,Hêtraie acidophile,Hainsimsen-Buchenwald,Faggete acidofile con Erba lucciola,Luzulo-Fagenion,Central European and Southern Alpine or Appenine acidophilous beech forests ,6.2.2
+6.-2.3,Hêtraie mésophile de basse altitude,Waldmeister-Buchenwald,Faggete mesofile di bassa altitudine con Stellina odorosa,Galio-Fagenion,Neutrophilous beech forests ,6.2.3
+6.-2.3.1,Hêtraie atlantique,Atlantischer Buchenwald,Faggete atlantiche,Illici-Fagenion,,6.2.3.1
+6.-2.4,Hêtraie mésophile de l'étage montagnard inférieur,Zahnwurz-Buchenwald,Faggete mesofile dell'orizzonte montano inferiore,Lonicero-Fagenion,Bittercress beech forests ,6.2.4
+6.-2.5,Hêtraie à sapins de l'étage montagnard,Tannen-Buchenwald,Boschi di Faggio comune e Abete dell'orizzonte montano,Abieti-Fagenion,Subalpine beech woods,6.2.5
+6.-3,Autres forêts de feuillus,Andere Laubwälder,Altri boschi di latifoglie,,Other deciduous forests,6.3
+6.-3.1,Erablaie de ravin méso-hygrophile,Ahorn-Schluchtwald,"Acerete di forra meso-igrofile (boschi di Acero su suolo detritico, boschi di forra a Lunaria)",Lunario-Acerion,Ravine ash-sycomore forests,6.3.1
+6.-3.2,Tillaie thermophile sur éboulis ou lapiez,Lindenmischwald,Boschi misti con Tiglio termofili su suolo detritico ,Tilion platyphylli,Thermophilous Alpine and Peri-alpine mixed lime forests,6.3.2
+6.-3.3,Chênaie à charme,Eichen-Hainbuchenwald,Quercete con Carpino,Carpinion,Oak-Hornbeam forests,6.3.3
+6.-3.4,Chênaie buissonnante,Flaumeichenwald,Quercete cespugliosi con Roverella e Rovere,Quercion pubescenti-petraeae,Western white oak woods and related communities,6.3.4
+6.-3.5,Ostryaie buissonnante du sud des Alpes,Hopfenbuchenwald,Boschi cespugliosi sudalpini con Carpino nero e Orno (Ostrieto),Orno-Ostryon,Northern Italian Quercus pubescens woods,6.3.5
+6.-3.6,Chênaie acidophile,Saurer Eichenmischwald,Quercete miste acidofile con Quercia comune e Rovere,Quercion robori-petraeae,Acidophilous oak forests,6.3.6
+6.-3.7,Châtaigneraie,Kastanienwald,Castagneti (boschi misti di Castagno e Quercia),,Insubrian acidophilous oak forest and chestnut woods,6.3.7
+6.-3.8,Forêt à sous-bois laurifolié,Laubwald mit immergrünen Sträuchern,Boschi con sottobosco di laurofille,,Woods with Laurus undergrowth,6.3.8
+6.-3.9,Forêt secondaire de robiniers,Robinienwald,Boschi secondari con Robinia,Robinion,Locust tree plantations,6.3.9
+6.-3a,Forêts de ravin,Schluchtwälder,Boschi di forra,,Mixed ravine and slope forests,6.3a
+6.-3b,Chênaies,Eichenwälder,Quercete,,Oak forests,6.3b
+6.-3c,Forêts thermophiles secondaires,Wärmeliebende Sekundärwälder,Boschi termofili secondarie,,Insubrian secondary thermophilous forests,6.3c
+6.-4,Pinèdes thermophiles,Wärmeliebende Föhrenwälder,Pinete termofile,,Thermophilous pine forests,6.4
+6.-4.1,Pinède subatlantique des pentes marneuses,Pfeifengras-Föhrenwald,Pinete subatlantiche su pendii marnosi con Gramigna altissima,Molinio-Pinion,Spring heath scots pine forests,6.4.1
+6.-4.2,Pinède subcontinentale basophile,Kalkreicher Föhrenwald,Pinete subcontinentali basofile (di bassa altitudine e a Erica e Citiso),Erico-Pinion sylvestris,Spring heath scots pine forests,6.4.2
+6.-4.2.1,Pinède subcontinentale à Cytise,Geissklee-Föhrenwald,,Cytiso-Pinion,,6.4.2.1
+6.-4.3,Pinède continentale xérophile,Kontinentaler Steppen-Föhrenwald,Pinete continentali xerofile con Ononide,Ononido-Pinion,Inner-Alpine restharrow steppe forests,6.4.3
+6.-4.3.1,Pinède continentale sur sol calcaire,Kalkreicher Steppen-Föhrenwald,Pineta continentale su suoli calcarei,Ononido-Pinion s.str. ,Calcareous Inner-Alpine restharrow steppe forests,6.4.3.1
+6.-4.3.2,Pinède continentale sur sol non calcaire,Kalkarmer Steppen-Föhrenwald,Pineta continentale su suoli non calcarei,Deschampsio-Pinion,Non calcareous Inner-Alpine restharrow steppe forests,6.4.3.2
+6.-4.4,Pinède mésophile sur silice,Kalkarmer Föhrenwald,Pinete mesofile su suolo acido,Dicrano-Pinion,Subcontinental Scots pine forests,6.4.4
+6.-5,Forêts de tourbières,Hochmoorwälder,Boschi di torbiera,,Bogs forests,6.5
+6.-5.1,Bétulaie sur tourbe,Hochmoor-Birkenwald,Boschi di Betulla su suolo torboso,Betulion pubescentis,Sphagnum birch woods,6.5.1
+6.-5.2,Pinède sur tourbe,Hochmoor-Bergföhrenwald,Pinete con Pino montano su suolo torboso,Ledo-Pinion,Mountain pine bog woods,6.5.2
+6.-5.3,Pessière sur tourbe,Hochmoor-Fichtenwald,Peccete su suolo torboso,Sphagno-Piceetum,Peatmoss Subalpine and Sphagnum spruce woods,6.5.3
+6.-6,Forêts de cônifères d'altitude,Gebirgs-Nadelwälder,Boschi di conifere d'altitudine,,High altitude coniferous forests,6.6
+6.-6.1,Pessière-sapinière,Tannen-Fichtenwald,Boschi misti di Peccio e Abete bianco,Abieti-Piceion,Fir forests,6.6.1
+6.-6.2,Pessière,Heidelbeer-Fichtenwald,Peccete,Vaccinio-Piceion,Spruce forests,6.6.2
+6.-6.3,Forêt de mélèzes et d'aroles,Lärchen-Arvenwald,"Boschi di Larice e Pino cembro, Cembrete",Larici-Pinetum cembrae,Eastern siliceous larch and arolla forests,6.6.3
+6.-6.4,Mélézin,Lärchenwald,Lariceti,Junipero-Laricetum,Limestone larch forests,6.6.4
+6.-6.5,Pinède de montagne,Bergföhrenwald,Pinete montane con Pino montano,Erico-Pinion mugo,Mountain pine forests,6.6.5
+6.-6.5.1,Pinède de montagne acidophile,Kalkarmer Bergföhrenwald,Pinite montane con Pino montano acidofile,Vaccinio-Pinion,,6.6.5.1
+6.-6.5.2,Pinède de montagne basophile,Kalkreicher Bergföhrenwald,Pinite montane con Pino montano basofile,Erico-Pinion uncinatae,,6.6.5.2
+7.-1,Terrains piétinés et rudéraux,Trittrasen und Ruderalfluren,Luoghi calpestati e ruderali,,Trampled and ruderal areas,7.1
+7.-1.0,Terrain piétiné et décombres dépourvus de végétation,Tritt- und Trümmerflächen ohne Vegetation,Luoghi calpestati e ruderali privi di vegetazione,,Trampled ground and unvegetated ruins or debris,7.1.0
+7.-1.1,Endroit piétiné humide,Feuchte Trittflur,Luoghi calpestati umidi (praterie umide a Gramigna e Romice),Agropyro-Rumicion,Flood swards and related communities,7.1.1
+7.-1.2,Endroit piétiné sec,Trockene Trittflur,Luoghi calpestati aridi,Polygonion avicularis,Lowland fallow fields,7.1.2
+7.-1.3,Endroit piétiné subalpin ou alpin,Subalpin-alpine Trittflur,Luoghi calpestati dell'orizzonte subalpino e alpino,Poion supinae,Subalpine and Alpine fallow fields,7.1.3
+7.-1.4,Rudérales annuelles,Einjährige Ruderalflur,Luoghi con vegetazione ruderale annuale,Sisymbrion,Annual ruderal vegetation,7.1.4
+7.-1.5,Rudérales pluriannuelles thermophiles,Trockenwarme Ruderalflur,Luoghi con vegetazione ruderale pluriennale termofila (Onopordo tomentoso),Onopordion,Pluriannual thermophilous ruderal vegetation,7.1.5
+7.-1.6,Rudérales pluriannuelles mésophiles,Mesophile Ruderalflur (Steinkleeflur),Luoghi con vegetazione ruderale pluriennale mesofila,Dauco-Melilotion,Pluriannual mesophile ruderal vegetation,7.1.6
+7.-1.7,Reposoir à bétail subalpin ou alpin,Alpine Lägerflur (Alpenblackenflur),Luoghi di riposo del bestiame dell'orizzonte subalpino e alpino con vegetazione nitrofila,Rumicion alpini,Alpine dock communities,7.1.7
+7.-1.8,Reposoir à bétail de basse altitude,Lägerflur der Tieflagen (Klettenflur),Luoghi di riposo del bestiame di bassa altitudine,Arction,Lowland dock cmmunities,7.1.8
+7.-2,Milieux rocheux anthropogènes,Anthropogene Steinfluren,"Manufatti in sasso, muri e selciati",,Anthropogene rocky habitats,7.2
+7.-2.0,Mur ou pavement dépourvu de végétation,Mauer und Steinpflästerung ohne Vegetation,Muri e selciati privi di vegetazione,,Unvegetated wallls or paved areas,7.2.0
+7.-2.1,Ruine ou vieux mur,Trockenwarme Mauerflur,"Rovine, vecchi muri e muri a secco",Centrantho-Parietarion,Vegetated ruins or old walls,7.2.1
+7.-2.2,Pavement,Steinpflaster-Trittflur,Selciati,Saginion procumbentis,Vegetated paved areas,7.2.2
+8.-1,Cultures de plantes ligneuses,"Baumschulen, Obstgärten, Rebberge",Colture di piante legnose,,Cultivated ligneous formations,8.1
+8.-1.1,Pépinière de feuillus,Baumschule aus Laubgehölzen,Vivai di latifoglie,,Deciduous seedbeds,8.1.1
+8.-1.2,Pépinière de cônifères,Baumschule aus Nadelgehölzen,Vivai di conifere,,Coniferous seedbeds,8.1.2
+8.-1.3,Verger de châtaigniers (sans sous-bois),Kastanienhain (ohne Unterholz),Selve castanili (prive di sottobosco),,Chestnut groves (without undergrowth),8.1.3
+8.-1.4,Verger de fruitiers haute tige,Hochstammobstgarten,Frutteti ad alto fusto,,High stem orchard,8.1.4
+8.-1.5,Verger de fruitiers basse tige,Niederstammobstgarten,Frutteti a basso fusto,,Low-stem orchard,8.1.5
+8.-1.6,Vigne,Rebberg,Vigneti,,Vineyards,8.1.6
+8.-1.7,Petits fruits,Beerenkultur,"Colture di arbusti da piccoli frutti, bacche",,Small fruits,8.1.7
+8.-1a,Verger,Stammobstgarten,Frutteti,,Orchard,8.1a
+8.-2,Cultures de plantes herbacées,Feldkulturen (Äcker),Colture di piante erbacee,,Field crops,8.2
+8.-2.1,Culture de céréales (panifiables),Getreidefeld (vorwiegend Winterkultur),Colture di cereali (panificabili),,Cereal crops,8.2.1
+8.-2.1.0,Céréales sans végétation adventice,Getreide ohne Begleitvegetation,Colture di cereali prive di vegetazione segetale,,Cereal crops without adventitious vegetation,8.2.1.0
+8.-2.1.1,Végétation ségétale des sols acides,Kalkarme Getreideäcker,Colture su suolo acido con vegetazione segetale,Aphanion,Segetal vegetation on acid soils,8.2.1.1
+8.-2.1.2,Végétation ségétale des sols carbonatés,Kalkreiche Getreideäcker,Colture su suolo carbonatico con vegetazione segetale,Caucalidion,Segetal vegetation on carbonated soils,8.2.1.2
+8.-2.2,"Maïs, tabac, autres grandes cultures","Mais, Tabak, andere Ackerkulturen (vorwiegend Sommerkulturen)","Altre colture su vaste superficie (granoturco, tabacco ecc.)",,"Corn, tobacco and other crops",8.2.2
+8.-2.3,"Culture sarclée, jardin","Hackfruchtacker (Sommerkultur), Garten","Colture sarchiate, orti e giardini",,"Weeded crops, gardens",8.2.3
+8.-2.3.0,Culture sarclée sans végétation adventice,Hackfruchtacker ohne Begleitflora,Colture sarchiate prive di vegetazione avventizia,,Weeded crops without adventitious vegetation,8.2.3.0
+8.-2.3.1,Végétation adventice des sols argileux neutres à acides,"Kalkarmer, lehmiger Hackfruchtacker",Luoghi con vegetazione avventizia su suoli argillosi da neutri ad acidi,Polygono-Chenopodion,Adventitious vegetation on neutral to acid argillaceous soils,8.2.3.1
+8.-2.3.2,Végétation adventice des sols argileux calcaires,"Kalkreicher, lehmiger Hackfruchtacker",Luoghi con vegetazione avventizia su suoli argillosi calcarei,Fumario-Euphorbion,Adventitious vegetation on calcareous argillaceous soils,8.2.3.2
+8.-2.3.3,Végétation adventice des sols légers neutres à acides,"Kalkarmer, trockener Hackfruchtacker",Luoghi con vegetazione avventizia su suoli leggeri da neutri ad acidi,Panico-Setarion,Adventitious vegetation on neutral to acid light soils,8.2.3.3
+8.-2.3.4,Végétation adventice des sols légers calcaires,"Kalkreicher, trockener Hackfruchtacker",Luoghi con vegetazione avventizia su suoli leggeri calcarei,Eragrostion,Adventitious vegetation on calcareous light soils,8.2.3.4
+9.-1,"Décharges, dépôts","Lagerplätze, Deponien",Depositi di materiale vario,,Dumps,9.1
+9.-1.1,Décharge (matériaux inertes),Deponie (Sperrgut),Discarica d'inerti,,Dump of inert detritus,9.1.1
+9.-1.2,Décharge (déchets organiques),Deponie (organische Abfälle),Discarica (rifiuti organici),,Dump of organic detritus,9.1.2
+9.-2,Bâtiment,Bauten,Edifici,,Building,9.2
+9.-2.1,Bâtiment habité,Bewohntes Gebäude,Edifici abitati,,Inhabited building,9.2.1
+9.-2.1.1,Ferme,Bauernhaus,Fattoria,,Farmhouse,9.2.1.1
+9.-2.1.2,Chalet,"Sennhütte, Chalet",Chalet,,Chalet,9.2.1.2
+9.-2.1.3,Villa,Einfamilienhaus,Villetta,,Villa,9.2.1.3
+9.-2.1.4,Immeuble locatif ou commercial,"Mietgebäude, Gewerbegebäude",Immobile locativo o commerciale,,Block of flats or commercial building,9.2.1.4
+9.-2.2,"Locaux d'élevage, de culture","Tierstallungen, Gewächshäuser",Fabbricati adibiti all'allevamento o alle colture,,"Breeding houses, greenhouses",9.2.2
+9.-2.2.1,"Ecurie, étable",Kuh- und Pferdestall,Scuderie e stalle,,"Stable, cattle shed",9.2.2.1
+9.-2.2.2,Porcherie,Schweinestall,Porcili,,Pigsty,9.2.2.2
+9.-2.2.3,Poulailler,Hühnerstall,Pollai,,Hen house,9.2.2.3
+9.-2.2.4,Serre,Treibhaus,Serre,,Greenhouse,9.2.2.4
+9.-2.2.5,Rucher,Bienenhaus,,,,9.2.2.5
+9.-2.3,"Dépendances, hangar, garage","Nebengebäude, Halle, Garage","Capanni (dépendance), hangar, garage",,"Outbuildings, hangar, garage",9.2.3
+9.-2.3.1,"Grange, mazot","Scheune, Schopf","Fienili, granai",,"Barn, mazot",9.2.3.1
+9.-2.3.2,Garage,Garage,Garage,,Garage,9.2.3.2
+9.-2.3.3,Hangar à bateau,Boothaus,Darsena,,Boat hangar,9.2.3.3
+9.-2.3.4,Bunker,Bunker,Bunker,,Bunker,9.2.3.4
+9.-2.3.5,"Refuge, maison forestière","Berghütte, Forsthaus","Rifugio, casa forestale",,"Refuge, forest house",9.2.3.5
+9.-2.4,"Usine, halle, entrepôt","Fabrik, Halle, Lagerhaus","Fabbriche, capannoni e magazzini",,"Factory, market, warehouse",9.2.4
+9.-2.4.1,Usine,Fabrik,Fabbriche,,Factory,9.2.4.1
+9.-2.4.2,Entrepôt,Lagerhaus,Magazzini,,Warehouse,9.2.4.2
+9.-2.4.3,Centrale électrique,Elektrisches Kraftwerk,Centrale elettrica,,Electric power station,9.2.4.3
+9.-2.4.4,Centrale nucléaire,Atomkraftwerk,Centrale nucleare,,Nuclear power station,9.2.4.4
+9.-2.4.5,Raffinerie,Raffinerie,Raffineria,,Refinery,9.2.4.5
+9.-2.4.6,"Scierie, menuiserie","Sägerei, Schreinerei","Segheria, sminuzzatrice",,"Sawmill, joinery",9.2.4.6
+9.-2.5,"Bâtiment public, monument","Öffentliches Gebäud, Denkmal","Edificio pubblico, monumento",,"Public buildings, monument",9.2.5
+9.-2.5.1,Château,Schloss,Castello,,Castle,9.2.5.1
+9.-2.5.2,Eglise,Kirche,Chiesa,,Church,9.2.5.2
+9.-2.5.3,Gare,Bahnhof,Stazione ferroviaria,,Station,9.2.5.3
+9.-2.5.4,Hôpital,Spital,Ospedale,,Hospital,9.2.5.4
+9.-2.5.5,Ecole,Schule,Scuola,,,9.2.5.5
+9.-3,Voies de communication,Verkehrswege,Vie di comunicazione,,Communication routes,9.3
+9.-3.2,Routes revêtues,Asphalt- oder Betonstrasse,Vie di comunicazione asfaltate,,Surfaced roads,9.3.2
+9.-3.2.1,Route,Strasse,Strada,,Road,9.3.2.1
+9.-3.2.2,Autoroute,Autobahn,Autostrada,,Motorway,9.3.2.2
+9.-3.2.3,"Chemin sans végétation (béton, caillasse)","Weg ohne Vegetation (Beton, Kies)","Sentiero sassoso senza vegetazione (cemeno, ghiaia)",,"Unvegetalised track, lane (concrete, gravel and stones)",9.3.2.3
+9.-3.3,"Chemin non revêtus, sentiers","Naturstrasse, Weg","Strade non pavimentate, sentieri",,"Unsurfaced track, lane",9.3.3
+9.-3.3.1,Chemin de terre,Naturweg (Dreckweg),Sentiero in terra battuta,,Dirt track,9.3.3.1
+9.-3.3.2,Piste de débardage,Holzerweg,Pista forestale,,Unloading track,9.3.3.2
+9.-3.3.3,Sentier,Pfad,Sentiero,,Path,9.3.3.3
+9.-3.4,Voie ferrée,Bahngleis,Linea ferroviaria,,Railway,9.3.4
+9.-4,"Terrain de sport revêtu, place de parc","Versiegelter Sportplatz, Parkplatz, usw.","Campi sportivi, parcheggi pavimentati ecc.",,"Sports ground, car park",9.4
