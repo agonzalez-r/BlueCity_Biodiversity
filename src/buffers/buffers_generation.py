@@ -12,12 +12,13 @@ def sample_points_along_line(line, step):
     points = [line.interpolate(distance) for distance in distances]
     return points
 
-def make_road_buffers(roads, step=500, radius=250, tol=250,  target_crs=4326, save=False):
+def make_buffers(roads, name, step=500, radius=250, tol=250,  target_crs=4326, save=False):
     """
     Generate a grid of circular buffers along roads.
 
     Args:
         roads: GeoDataFrame of LineStrings (must have a projected CRS in meters)
+        name: name of the road network (for saving output)
         step: distance between points along roads (meters)
         radius: radius of each buffer (meters)
         tol: snapping tolerance for deduplication (meters)
@@ -50,6 +51,6 @@ def make_road_buffers(roads, step=500, radius=250, tol=250,  target_crs=4326, sa
     ).to_crs(epsg=target_crs)
 
     if save:
-        buffers_gdf.to_file(f"../data/buffers/road_buffers_{radius}_{step}_{tol}.geojson", driver="GeoJSON")
+        buffers_gdf.to_file(f"../data/buffers/{name}_buffers_{radius}_{step}_{tol}.geojson", driver="GeoJSON")
         print(f"Saved buffers to road_buffers_{radius}_{step}_{tol}.geojson")
     return buffers_gdf
